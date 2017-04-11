@@ -75,7 +75,7 @@ public class Helloworld {
 				
 				if(user.equals("IRFAN") && pass.equals("3838215"))
 				{
-					JOptionPane.showMessageDialog(frame, "Login seccuss full");
+					JOptionPane.showMessageDialog(frame, "Login seccuss full dear");
 					
 					// create an object to other frame
 					
@@ -84,7 +84,7 @@ public class Helloworld {
 				}
 				else
 				{
-					JOptionPane.showMessageDialog(frame, "UnAuthontication User");
+					JOptionPane.showMessageDialog(frame, "UnAuthontication User drar");
 				}
 				
 			}
