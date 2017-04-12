@@ -41,7 +41,7 @@ public class FrameTwo extends JFrame {
 		setContentPane(contentPane);
 		contentPane.setLayout(null);
 		
-		JLabel lblMessage = new JLabel("Message");
+		JLabel lblMessage = new JLabel(" first Message");
 		lblMessage.setBounds(33, 124, 105, 14);
 		contentPane.add(lblMessage);
 		

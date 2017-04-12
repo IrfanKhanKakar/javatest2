@@ -60,7 +60,7 @@ public class FrameOne extends JFrame {
 		btnSend.setBounds(231, 161, 89, 23);
 		contentPane.add(btnSend);
 		
-		JLabel lblName = new JLabel("Name");
+		JLabel lblName = new JLabel(" first Name");
 		lblName.setBounds(64, 68, 46, 14);
 		contentPane.add(lblName);
 	}
